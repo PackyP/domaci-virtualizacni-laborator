@@ -39,3 +39,15 @@ Proxmox VE byl nainstalován z oficiálního ISO.
 5. Dokončení instalace a restart systému  
 
 ---
+
+
+## 📸 Screenshoty instalace
+
+Snímky uloženy v `docs/images/`:
+
+```markdown
+![Instalace - krok 1](docs/images/01-installer.png)
+![Instalace - krok 2](docs/images/02-network-config.png)
+![Instalace dokončena](docs/images/03-install-complete.png)
+```
+
