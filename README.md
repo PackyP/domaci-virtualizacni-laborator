@@ -43,7 +43,7 @@ Proxmox VE byl nainstalován z oficiálního ISO.
 
 ## 📸 Screenshoty instalace
 
-Snímky uloženy v `docs/images/`:
+Snímky uloženy v `docs/images`:
 
 ```markdown
 ![Instalace - krok 1](docs/images/01-installer.png)
